@@ -1,5 +1,5 @@
 # gesture_recognition
-models for Hand_Detection_and_Tracking
+Models for Palm detection and tracking
 
 ## Run quantized palm detection model(192x192X3)
 <table class="tfo-notebook-buttons" align="left">
