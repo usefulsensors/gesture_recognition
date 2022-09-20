@@ -8,6 +8,7 @@ Models for Palm detection and tracking
 </table>
 *Estimated Conversion Time: ~1 Mins.*
 
+##   
 
 ## Run quantized palm detection model(192x192X3)
 <table class="tfo-notebook-buttons" align="left">
@@ -17,8 +18,9 @@ Models for Palm detection and tracking
 </table>
 *Estimated Conversion Time: ~1 Mins.*
 
-
+##   
 
 # Refer the below link to know more about TensorFlow Lite Gesture Classification model(model_metadata.tflite)
-###
+
 https://github.com/tensorflow/examples/tree/master/lite/examples/gesture_classification/android
+##   
