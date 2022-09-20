@@ -20,7 +20,7 @@ Models for Palm detection and tracking
 
 ##   
 
-# Refer the below link to know more about TensorFlow Lite Gesture Classification model(model_metadata.tflite)
+# TensorFlow Lite Gesture Classification model(model_metadata.tflite)
 
 https://github.com/tensorflow/examples/tree/master/lite/examples/gesture_classification/android
 ##   
