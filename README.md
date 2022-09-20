@@ -1,4 +1,4 @@
-# gesture_recognition
+# Gesture_recognition
 Models for Palm detection and tracking
 ## Run  palm detection and hand landmark model
 <table class="tfo-notebook-buttons" align="left">
@@ -16,6 +16,8 @@ Models for Palm detection and tracking
   </td>
 </table>
 *Estimated Conversion Time: ~1 Mins.*
+
+
 
 # Refer the below link to know more about TensorFlow Lite Gesture Classification model(model_metadata.tflite)
 ###
